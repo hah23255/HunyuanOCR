@@ -31,6 +31,7 @@
 </div>
 
 ## 🔥 最新动态
+- **[2026/05/11]** 🎉 我们在文档解析（Wild-OmniDocBench）与文本图像机器翻译（MMTIT-Bench）方向的两项 Benchmark 已正式开源：[Wild-OmniDocBench](https://github.com/VirtualLUOUCAS/Wild_OmniDocBench)、[MMTIT-Bench](https://github.com/VirtualLUOUCAS/MMTIT_Bench)，欢迎大家评测使用并提出宝贵意见！
 - **[2026/04/08]** 🎉 我们在文档解析与文本图像机器翻译方向的两项研究成果被CVPR 2026 Main Conference正式接收！详见论文：[2603.23885](https://arxiv.org/abs/2603.23885)、[2603.23896](https://arxiv.org/abs/2603.23896)。
 - **[2026/01/13]** ⭐ 我们发布了稳定的官方[在线Demo](https://hunyuan.tencent.com/chat/HunyuanDefault?modelId=HY-OCR-1.0&mid=308&from=vision-zh)页面, 欢迎试用！
 - **[2025/11/28]** 🛠️ 我们修复了vLLM推理bug以及system prompt等超参配置问题。建议使用最新的vLLM安装步骤和[推理脚本](https://github.com/Tencent-Hunyuan/HunyuanOCR/blob/main/Hunyuan-OCR-master/Hunyuan-OCR-vllm/run_hy_ocr.py)进行效果测试。目前Transformers相比vLLM框架仍然存在一定的精度差异（正在努力修复中）。
